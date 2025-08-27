@@ -1,6 +1,8 @@
 # Dependencies
 
 ### UV Environment 
+- Create environment `generative-ai`
+- `uv venv generative-ai --python==3.12.1`
 - Activate the environment: `generative-ai`. with python 3.12.1
 - `source generative-ai/bin/activate`
 - install requirements with
