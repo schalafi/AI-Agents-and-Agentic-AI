@@ -4,7 +4,7 @@ import openai
 
 
 # load environment variables from .env file
-load_dotenv()
+load_dotenv('../../../.env')
 
 # Initialize OpenAI client
 client = openai.OpenAI()
